@@ -1,6 +1,8 @@
 .box{
 	width:200px;
 	height:200px;
+	margin:10px;
+	float:left;
 }
 
 #boxA{
@@ -9,10 +11,12 @@
 
 #boxB{
 	background-color: #00B0D2;
+	
 }
 
 #boxC{
 	background-color: #E6F7F9;
+	
 }
 
 #boxD{
